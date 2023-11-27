@@ -3,7 +3,8 @@
 <p>I tried to implement one of the relatively new distance metrics, Hassanat, in two datasets and compare it with the Minkowski distance result.
 </p><br>
 
-<img width="1111" alt="Screenshot 2023-08-04 at 8 06 43 PM" src="https://github.com/john-fante/hassanat-distance-implementation-knn/assets/50263592/496e9a54-5121-4360-bef1-12416e130811">
+<img width="1111" alt="258535917-496e9a54-5121-4360-bef1-12416e130811" src="https://github.com/john-fante/my-machine-learning-theory-implementation/assets/50263592/9fd2a0a4-c5dc-4d70-b563-9d704397c8eb">
+
 <i > Hassanat distance metric formula [1] </i><br>
 
 ## Result
