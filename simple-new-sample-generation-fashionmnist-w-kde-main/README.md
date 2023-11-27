@@ -1,6 +1,8 @@
 # Simple New Sample Generation FashionMNIST w/KDE
 A primitive GAN, a sample data generator with Kernel Density Estimation
-![kde_fashion_mnist_banddaniel](https://github.com/john-fante/Simple-New-Sample-Generation-FashionMNIST-w-KDE/assets/50263592/173b82db-d577-4314-8ace-84eb96e2c570)
+
+![255333410-173b82db-d577-4314-8ace-84eb96e2c570](https://github.com/john-fante/my-machine-learning-theory-implementation/assets/50263592/ee6fc876-dc30-40a7-8757-576db095fa02)
+
 
 I tried to create <b>a basic sample data generator with Kernel Density Estimation</b>. Main goal of this project is creating new samples from original distribution of data. Kernel density is very handy for sampling from discrete distribution.
 
@@ -17,4 +19,5 @@ My similar project using Fashion MNIST is there -> [https://www.kaggle.com/bandd
 
 
 ## My results <br>
-![__results___8_0](https://github.com/john-fante/Simple-New-Sample-Generation-FashionMNIST-w-KDE/assets/50263592/15968294-db55-4fc9-aed7-44d8e4b0457f)
+
+![255333477-15968294-db55-4fc9-aed7-44d8e4b0457f](https://github.com/john-fante/my-machine-learning-theory-implementation/assets/50263592/11940e68-c186-4cb5-b99d-000fc8607bd3)
