@@ -1,5 +1,7 @@
 ## Hassanat Distance Implementation w/KNN
 
+<b> kaggle link -> https://www.kaggle.com/code/banddaniel/hassanat-distance-implementation-w-knn </b>
+
 <p>I tried to implement one of the relatively new distance metrics, Hassanat, in two datasets and compare it with the Minkowski distance result.
 </p><br>
 
